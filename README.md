@@ -17,6 +17,7 @@ In our website design. We provide the following sevice feather.
 	Delete post item: an ability to delete item(by user)
 
 	Bid for an item: we will have ability to bid for an item after login and will update highest price biding automatically.
+
 	View all the items in a interval time.
 
 	All bids for an item.
